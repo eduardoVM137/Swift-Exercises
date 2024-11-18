@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Practicas
+//  Practicas U1
 //
 //  Created by Movil2 on 17/11/24.
 //
