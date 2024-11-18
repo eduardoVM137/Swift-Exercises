@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Practicas U1
+//  Practicas U2
 //
 //  Created by Movil2 on 17/11/24.
 //
