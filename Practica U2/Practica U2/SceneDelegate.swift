@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Practicas U2
+//  Practica U2
 //
 //  Created by Movil2 on 17/11/24.
 //
